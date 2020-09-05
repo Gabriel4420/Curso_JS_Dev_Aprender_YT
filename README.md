@@ -2,7 +2,7 @@
 
 ## Adaptado por Gabriel Rodrigues
 
-![](https://img.shields.io/github/languages/top/Gabriel4420/projetos/cursoJS) ![](https://img.shields.io/github/languages/count/Gabriel4420/projetos/cursoJS)
+![](https://img.shields.io/github/languages/top/Gabriel4420/projetos) ![](https://img.shields.io/github/languages/count/Gabriel4420/projetos)
 
 
 ## Sobre o Projeto
