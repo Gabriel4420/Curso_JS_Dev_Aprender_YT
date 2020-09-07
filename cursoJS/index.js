@@ -23,3 +23,16 @@ function mudaNome() {
 }
 
 mudaNome()
+
+// desafio troca de valores 
+
+let a = 'vermelho'
+
+let b = 'azul'
+
+a = b;
+b = a;
+b = 'vermelho'
+
+console.log(a);
+console.log(b);
